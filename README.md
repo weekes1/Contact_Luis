@@ -1,4 +1,4 @@
-# contactPy
+# contactCPP
 A MarieDB C++ microservice baced web app to save phone numbers
 
 ## MariaDB
@@ -12,8 +12,8 @@ A MarieDB C++ microservice baced web app to save phone numbers
     #define PASS "GambierOwls"
 ```
 ## Setup web directory
- - sudo mkdir /var/www/html/contactPy
- - sudo chown ubuntu /var/www/html/contactPy
+ - sudo mkdir /var/www/html/contactCpp
+ - sudo chown ubuntu /var/www/html/contactCpp
 
 ## Make and run
   - make
